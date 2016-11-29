@@ -1,4 +1,4 @@
-x = 20
+x = int(input("What is your number?:  "))
 
 def TrailZero(x):
     Zeros = 0
@@ -11,4 +11,5 @@ def TrailZero(x):
                 break
     return Zeros
 
+print ("Your number has the following number of trailing 0's")
 print TrailZero(x)

@@ -1,5 +1,3 @@
-
-
 array = [5,2,3,6,1,12]
 
 print "This is the noraml List: - "
